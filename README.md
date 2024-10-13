@@ -5,12 +5,12 @@ Ce projet vise à démontrer l'architecture orientée événements en utilisant 
 
 ### 1. Installation et Configuration de Kafka
 
-<img src="pictures/1-downloadkafka.png" alt="1" width="600" height="400">
-<img src="pictures/2-start_zookeper.png" alt="2" width="600" height="400">
-<img src="pictures/3_start_kafka_server.png" alt="3" width="600" height="400">
+<img src="pictures/1-downloadkafka.png" alt="1" width="800" height="400">
+<img src="pictures/2-start_zookeper.png" alt="2" width="800" height="400">
+<img src="pictures/3_start_kafka_server.png" alt="3" width="800" height="400">
 
-<img src="pictures/7.png" alt="4" width="600" height="400">
-<img src="pictures/8.png" alt="5" width="600" height="400">
+<img src="pictures/7.png" alt="4" width="800" height="400">
+<img src="pictures/8.png" alt="5" width="800" height="400">
 
 
 ### 2. Test avec Docker
@@ -27,7 +27,7 @@ Ce projet vise à démontrer l'architecture orientée événements en utilisant 
 <img src="pictures/12__consuer_R2.png" alt="12" width="600" height="400">
 <img src="pictures/13.png" alt="12" width="600" height="400">
 <img src="pictures/14.png" alt="14" width="600" height="400">
-<img src="pictures/615.png" alt="15" width="600" height="400">
+<img src="pictures/15.png" alt="15" width="600" height="400">
 
 
 
