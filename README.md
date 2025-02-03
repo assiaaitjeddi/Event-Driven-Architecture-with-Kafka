@@ -1,4 +1,4 @@
-# Activité Pratique N°3 - Event Driven Architecture avec Kafka
+# Event Driven Architecture avec Kafka
 
 ### Objectif
 Ce projet vise à démontrer l'architecture orientée événements en utilisant Apache Kafka et Spring Cloud Streams. Nous allons créer un système complet comprenant un service producteur, un service consommateur, un service fournisseur, un service d'analyse de données en temps réel, et une application web pour afficher les résultats.
